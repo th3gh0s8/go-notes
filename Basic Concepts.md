@@ -1,5 +1,4 @@
--
-- # Go Language Notes - Basic Concepts
+# Go Language Notes - Basic Concepts
 - ## Introduction
   Basic Go program demonstrating fundamental programming concepts including variables, constants, printing functions, and type inspection.
 - ## Program Structure
