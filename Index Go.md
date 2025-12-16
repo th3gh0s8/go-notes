@@ -2,7 +2,7 @@
 
 Welcome to my Go programming language learning journey! This collection of notes documents my exploration of Go's features, concepts, and best practices.
 - ## Table of Contents
-- [Basic Concepts](./Basic Concepts.md)
+- [Go Language Basic Concepts](./Go Language Basic Concepts.md)
 - ## About Go
   
   Go (also known as Golang) is a statically typed, compiled programming language designed at Google. It's known for its simplicity, efficiency, and robust support for concurrent programming.
