@@ -76,5 +76,5 @@ title:: Go Language Basic Concepts
 - **Printing:** Both `Println` (simple) and `Printf` (formatted) options
 - **Types:** Go's static typing system with automatic inference
 - **Comments:** Using `/* */` for multi-line comments and `//` for single-line comments
-  
+
   This example serves as a solid foundation for understanding basic Go syntax and conventions!
